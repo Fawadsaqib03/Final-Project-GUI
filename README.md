@@ -19,6 +19,13 @@ It was developed **after the 2nd semester break** as an enhancement of the final
 
 ---
 
+## 📂 Data Files
+- `products.json` → Stores product information  
+- `orders.json` → Stores all customer orders  
+- `invoices.csv` → Stores order invoices  
+
+---
+
 ## 📧 Author
 Fawad Saqib  
 💬 Reach out via GitHub for feedback or collaboration!  
@@ -29,14 +36,8 @@ Fawad Saqib
 This project is intended for **academic and non-commercial use only**.
 
 
-## 📂 Data Files
-- `products.json` → Stores product information  
-- `orders.json` → Stores all customer orders  
-- `invoices.csv` → Stores order invoices  
-
----
-
 ## 🚀 How to Run
 1. Clone the repository:  
    ```bash
    git clone https://github.com/your-username/Final-Project-GUI.git
+
