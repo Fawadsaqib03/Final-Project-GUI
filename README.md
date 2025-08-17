@@ -27,7 +27,8 @@ It was developed **after the 2nd semester break** as an enhancement of the final
 ---
 
 ## 📧 Author
-Fawad Saqib  
+**Fawad Saqib**
+
 💬 Reach out via GitHub for feedback or collaboration!  
 
 ---
