@@ -19,6 +19,16 @@ It was developed **after the 2nd semester break** as an enhancement of the final
 
 ---
 
+## 📧 Author
+Fawad Saqib  
+💬 Reach out via GitHub for feedback or collaboration!  
+
+---
+
+## 📝 License
+This project is intended for **academic and non-commercial use only**.
+
+
 ## 📂 Data Files
 - `products.json` → Stores product information  
 - `orders.json` → Stores all customer orders  
